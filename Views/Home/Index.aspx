@@ -7,6 +7,10 @@
     <title>Index</title>
 </head>
 <body>
-    <h1>Bienvenido :)</h1>
+    <h1>Bienvenido a mi pagina :)</h1>
+    <h2>Opciones</h2>
+    <hr />
+    <a href="/Video/Create">Registro de videos</a>
+
 </body>
 </html>
