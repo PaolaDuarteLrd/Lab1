@@ -9,8 +9,14 @@
 <body>
     <h1>Bienvenido a mi pagina :)</h1>
     <h2>Opciones</h2>
-    <hr />
-    <a href="/Video/Create">Registro de videos</a>
+    <br />
+    <a href="/Video/Agregar">Registro de videos</a>
+    <br />
+    <a href="/Video/Eliminar">Eliminar videos</a>
+    <br />
+    <a href="/Video/Modificar">Actualizar videos</a>
+    <br />
+    <a href="/Video/Mostrar">Mostrar videos</a>
 
 </body>
 </html>
